@@ -1,3 +1,6 @@
+
+# Igniore the following folder s while uploading to online github repository
+
 /channel-artifacts/*.tx
 /channel-artifacts/*.block
 /crypto-config/*
