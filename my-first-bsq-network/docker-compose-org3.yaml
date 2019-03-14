@@ -5,7 +5,7 @@
 
 version: '2'
 
-volumes:bsq
+volumes:
   peer0.org3.bsq.com:
   peer1.org3.bsq.com:
 
