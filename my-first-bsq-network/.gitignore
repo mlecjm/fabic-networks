@@ -1,5 +1,5 @@
 
-# Igniore the following folder s while uploading to online github repository
+# Igniore the following folders while uploading to online github repository
 
 /channel-artifacts/*.tx
 /channel-artifacts/*.block
