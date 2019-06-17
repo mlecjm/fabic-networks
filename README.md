@@ -1,3 +1,3 @@
-# fabric-networks
+# Hyperledgr-Fabric-Projects
 
-This a bsq (BsquareLab) basic Hyperledger Fabric Network
+This repository contains Hyperledger Fabric Network Projects
